@@ -1,0 +1,6 @@
+# Folders
+venv/
+.idea/
+
+# Model
+yolov8n.pt
