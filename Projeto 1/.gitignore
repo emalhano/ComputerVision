@@ -1,6 +1,11 @@
 # Folders
+__pycache__/
 venv/
 .idea/
 
 # Model
 yolov8n.pt
+
+# Videos and images
+*.mp4
+*.png
